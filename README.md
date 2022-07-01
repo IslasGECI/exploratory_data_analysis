@@ -1,11 +1,7 @@
-# Dummy Transformations
+# Exploratory Data Analysis
 
 Para usar este repo como plantilla debemos hacer lo siguiente:
 
-1. Presiona el botón verde que dice _Use this template_
-1. Selecciona como dueño a la organización IslasGECI
-1. Agrega el nombre del nuevo módulo de python
-1. Presiona el botón _Create repository from template_
 1. Reemplaza `dummy_transformations` por el nombre del nuevo módulo en:
     - `Makefile`
     - `pyproject.toml`
